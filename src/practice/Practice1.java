@@ -8,6 +8,7 @@ public class Practice1 {
 		System.out.println("from deniz");
 		System.out.println("Muhammet's first code from remote repo");
 		System.out.println("from emine");
-		System.out.println("second commend from Fatma");	}
+		System.out.println("second commend from Fatma");
+		System.out.println("after fixing");}
 
 }
