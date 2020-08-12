@@ -7,6 +7,8 @@ public class Practice1 {
 		System.out.println("first code from remote repo");
 		
 		System.out.println("Muhammet's first code from local repo");
+		System.out.println("Muhammet's second code from local repo");
+		System.out.println("Muhammet's third code from local repo");
 	}
 
 }
