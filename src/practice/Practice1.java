@@ -6,6 +6,7 @@ public class Practice1 {
 		System.out.println("first code from master");
 		System.out.println("first code from remote master");
 		System.out.println("rahmiden");
+		System.out.println("rahmi branch den first commit");
 		
 
 	}
